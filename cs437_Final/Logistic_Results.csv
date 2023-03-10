@@ -1,0 +1,6 @@
+,,pred_train_all
+1,US_Logistic_Train,0.495374355
+2,US_Logistic_Test,0.462074886
+3,US_Logistic_Model,0.499438633
+4,Logistic_Train,0.47574839
+5,Logistic_Test,0.441777465
